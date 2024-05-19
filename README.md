@@ -9,7 +9,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=phamhungptithcm" alt="phamhungptithcm" />
   </a> 
 </p>
-- 🔭 🔭 Over 5 years of experience as a Software Engineer at FPT Software.
+- 🔭 Over 5 years of experience as a Software Engineer at FPT Software.
 
 - 🌱 Currently contributing to projects at FPT Americas.
 
@@ -22,28 +22,12 @@
 - 📄 Learn about my experiences on [https://www.linkedin.com/in/hunpham/](https://www.linkedin.com/in/hunpham/)
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/hunpham/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/hunpeocode" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-</p>
+- Email: **phamhung.working@gmail.com** or **phamhung.pitit@gmail.com**
+- Linkedin: [https://www.linkedin.com/in/hunpham/](https://www.linkedin.com/in/hunpham/)
+- Phone: +19452369965 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://angular.io" target="_blank">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  </a>
-  <a href="https://circleci.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="CircleCI" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <!-- Add more icons here as necessary -->
-</p>
+- Java, Spring Framework, SQL, Angular, JavaScript, Mendix, Apache Kafka, Elastic Search.
 <h3 align="left">Why Hire Me?</h3>
 **Extensive Industry Experience**
 With over 5 years of professional experience at FPT Software, I've honed my skills in software development and project management.
