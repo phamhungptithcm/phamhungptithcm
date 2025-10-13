@@ -81,9 +81,7 @@ I design and ship **cloud-native, event-driven platforms** using **Java 17+ / Sp
 ---
 
 <details>
-<summary>GitHub stats (optional)</summary>
-
-> If you use this on <a href="https://github.com/hunpeocode">hunpeocode</a>, change the `username=` query value.
+<summary>GitHub stats</summary>
 
 ![Hung's GitHub stats](https://github-readme-stats.vercel.app/api?username=phamhungptithcm&show_icons=true&theme=default&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamhungptithcm&layout=compact&hide_border=true)
