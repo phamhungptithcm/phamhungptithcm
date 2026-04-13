@@ -4,7 +4,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/hunpham/) • [Portfolio](https://hunpeo97.web.app) • [Email](mailto:phamhung.working@gmail.com)
 
-`Java • Spring Boot • Microservices • AWS • Kubernetes • Kafka • Redis • Angular • Distributed Systems`
+`Applied AI Engineer • Java • Spring Boot • Microservices • AWS • Kubernetes • Kafka • Redis • Angular • Distributed Systems`
 
 ## About / Summary
 
