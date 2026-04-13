@@ -1,90 +1,86 @@
-<h1 align="center">Hi 👋, I'm Hung Pham</h1>
-<h3 align="center">Senior Full-Stack / Platform Engineer — Java/Spring • Angular • Cloud-Native</h3>
+# Hung Pham
 
-<p align="center">
-  <a href="https://hunpeo.web.app">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/hunpham/">LinkedIn</a> •
-  <a href="mailto:phamhung.working@gmail.com">Email</a>
-</p>
+**Senior Java Engineer and Platform Engineer building scalable Spring Boot microservices on AWS and Kubernetes**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=phamhungptithcm&label=Profile%20views&color=B08B73&style=flat" alt="profile views" />
-</p>
+[LinkedIn](https://www.linkedin.com/in/hunpham/) • [Portfolio](https://hunpeo.web.app) • [Email](mailto:phamhung.working@gmail.com)
 
----
+`Java • Spring Boot • Microservices • AWS • Kubernetes • Kafka • Redis • Angular • Distributed Systems`
 
-### What I do
-I design and ship **cloud-native, event-driven platforms** using **Java 17+ / Spring Boot** on **AWS** with **Kafka, Redis, Elasticsearch**, and modern **Angular** front-ends. I care about clean contracts, strong observability, and production resilience.
+## About / Summary
 
-### Currently building
-**Tolling Management System** — modular suite with shared identity & data plane
-- CRM: https://beaus-crm-v1.web.app/
-- Fulfillment: https://beaus-fulfillment-v1.web.app/fulfillment
-- Online (consumer): https://beaus-online-v1.web.app/
+I build backend platforms and operator-facing systems where uptime, latency, security, and delivery discipline have real business impact.
+Over 7+ years, I have delivered Spring Boot microservices, event-driven architectures, and accessible Angular applications across FPT USA Corp, Quarterhill, and independent product work.
+I operate at staff-level scope across system design, observability, production health, release standards, and cross-team technical leadership.
+I am strongest when turning ambiguous requirements into maintainable distributed systems with clear ownership boundaries and measurable operational improvement.
 
-**Highlights:** Azure AD SSO + social login · Spring Security · Docker/Kubernetes · GitHub Actions
+## Core Expertise
 
-<p align="center">
-  <a href="https://beaus-crm-v1.web.app/"><img src="https://img.shields.io/badge/CRM-live-B08B73" /></a>
-  <a href="https://beaus-fulfillment-v1.web.app/fulfillment"><img src="https://img.shields.io/badge/Fulfillment-live-B08B73" /></a>
-  <a href="https://beaus-online-v1.web.app/"><img src="https://img.shields.io/badge/Online-live-B08B73" /></a>
-</p>
+- **Backend & Distributed Systems:** Java 17+, Spring Boot, Spring Cloud, Spring Security, REST, GraphQL, microservices, API design, event-driven architecture
+- **Cloud & Platform Engineering:** AWS, Kubernetes, Docker, GitHub Actions, CI/CD, release automation, platform reliability, production operations
+- **Data & Messaging:** Kafka, Redis, Elasticsearch, SQL, caching, asynchronous processing, search and analytics
+- **Frontend & Product Surfaces:** Angular, Angular Material, RxJS, NgRx, accessibility, operator tooling, pragmatic UX
+- **Engineering Leadership:** architecture reviews, observability, incident response, post-mortems, mentoring, code quality standards
 
----
+## What I Build
 
-### Experience
-- **FPT USA Corp — Senior Software Engineer**  
-  Cloud-native platforms, microservices, observability, security, leadership.
-- **Quarterhill — Contractor**  
-  Tolling back-office & streaming systems across **OCTA, ORB, KDOT, E-470**, and **R&D tolling**.
+- Cloud-native backends that support high-stakes operational workflows, secure identity, and multi-service coordination.
+- Spring Boot microservices with clear contracts, event-driven integration, and telemetry designed in from the first production release.
+- Platforms that balance backend scale with practical frontends for operations, customer support, and internal tooling.
+- Release and delivery systems that reduce multi-repo coordination risk and make change promotion easier to trust.
+- Systems optimized for reliability, operability, and long-term maintainability, not just feature output.
 
-**Impact**
-- Cut incident MTTR by **~50%** via instrumentation, alerting, and post-mortems.  
-- Led design reviews & performance budgets; improved reliability and delivery speed.  
-- Built accessible **Angular** ops tooling in close partnership with UX.
+## Selected Projects / Work Highlights
 
----
+### Tolling Management System
 
-### Core stack
-**Backend:** Java 17+, Spring Boot/Cloud, Spring Security, REST/GraphQL, Hibernate  
-**Frontend:** Angular, Angular Material, RxJS/NgRx, A11y best practices  
-**Platform:** AWS, Docker, Kubernetes, GitHub Actions  
-**Data/Streaming:** Kafka, Redis, Elasticsearch  
-**Also:** CI/CD, test automation, observability (AppDynamics), security & privacy (PII)
+- **Problem:** Separate CRM, fulfillment, and consumer workflows create duplicated identity concerns, fragmented operations, and harder change management.
+- **Solution:** Built a modular tolling suite on a shared identity and data plane with Azure AD SSO, Spring Security, event-driven services, and Angular frontends.
+- **Stack:** Java 17+, Spring Boot, Kafka, Redis, Elasticsearch, Angular, Docker, Kubernetes, GitHub Actions.
+- **Impact:** Established a cleaner platform model for tolling operations with reusable authentication patterns, clearer service boundaries, and a more repeatable delivery path. [CRM](https://beaus-crm-v1.web.app/) • [Fulfillment](https://beaus-fulfillment-v1.web.app/fulfillment) • [Online](https://beaus-online-v1.web.app/)
 
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-17%2B-111?logo=openjdk&logoColor=white&labelColor=7c5f4f&color=b08b73" />
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-Boot-111?logo=springboot&logoColor=white&labelColor=7c5f4f&color=b08b73" />
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-111?logo=angular&logoColor=white&labelColor=7c5f4f&color=b08b73" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-111?logo=amazonwebservices&logoColor=white&labelColor=7c5f4f&color=b08b73" />
-  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-111?logo=apachekafka&logoColor=white&labelColor=7c5f4f&color=b08b73" />
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-111?logo=redis&logoColor=white&labelColor=7c5f4f&color=b08b73" />
-  <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-111?logo=elasticsearch&logoColor=white&labelColor=7c5f4f&color=b08b73" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-111?logo=docker&logoColor=white&labelColor=7c5f4f&color=b08b73" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-111?logo=kubernetes&logoColor=white&labelColor=7c5f4f&color=b08b73" />
-</p>
+### Transportation & Tolling Programs
 
----
+- **Problem:** Enterprise tolling systems across OCTA, ORB, KDOT, E-470, and R&D initiatives required strong reliability, accessible operator tooling, and faster diagnosis of production issues.
+- **Solution:** Led design reviews, API architecture, performance debugging, observability improvements, and accessible Angular delivery across multiple transportation programs.
+- **Stack:** Java, Spring, Angular, AppDynamics, AWS, Kafka, Redis, Elasticsearch.
+- **Impact:** Reduced incident MTTR by about 50% through instrumentation, alerting, and blameless post-mortem discipline while improving delivery confidence across teams.
 
-### Why me?
-- **Hands-on delivery:** I own outcomes end-to-end—from design to production health.  
-- **Platform mindset:** Identity, observability, automation, scalability by default.  
-- **Clear comms:** Concise docs/RFCs, collaborative problem-solving, and mentoring.
+### gig: Ticket-Aware Release Verification CLI
 
----
+- **Problem:** In multi-repo environments, ticket-related changes are easy to miss when promoting code between branches or environments.
+- **Solution:** Built a Go CLI that inspects repo history, verifies ticket completeness, generates release packets, and helps teams reason about merge conflicts before release.
+- **Stack:** Go, Git tooling, GitHub Pages, Homebrew, Scoop, Markdown docs.
+- **Impact:** Turned release coordination from tribal knowledge into a repeatable workflow for engineers, QA, and release managers. [Repository](https://github.com/phamhungptithcm/gig) • [Docs](https://phamhungptithcm.github.io/gig/)
 
-### Let’s connect
-- ✉️ **phamhung.working@gmail.com** • **phamhung.pitit@gmail.com**  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/hunpham/  
-- 📞 **+1 (945) 236-9965**
+### BeFam: Mobile-First Family Platform
 
----
+- **Problem:** Genealogy, membership, events, and billing workflows are difficult to manage across disconnected tools and manual processes.
+- **Solution:** Designed a mobile-first platform with Flutter application architecture, Firebase backend services, bilingual documentation, health checks, release scripts, and production-readiness guidance.
+- **Stack:** Flutter, Dart, Firebase, TypeScript, GitHub Actions, Docker, MkDocs.
+- **Impact:** Demonstrates end-to-end product ownership across application architecture, DevOps, monitoring, documentation, and release operations. [Repository](https://github.com/phamhungptithcm/gia-pha) • [Docs](https://phamhungptithcm.github.io/gia-pha/)
+
+## Engineering Principles
+
+- Clean architecture and explicit service boundaries keep distributed systems understandable as they scale.
+- Observability is part of delivery: dashboards, alerts, traces, and runbooks ship with the service.
+- Resilience comes from thoughtful failure handling, not just retries: timeouts, fallbacks, idempotency, and operational clarity.
+- Scalability should be driven by bottlenecks and workload patterns, not premature abstraction.
+- Strong engineering culture compounds over time through clear docs, rigorous reviews, CI gates, and blameless post-mortems.
+
+## GitHub Stats
 
 <details>
-<summary>GitHub stats</summary>
+<summary>Open GitHub activity snapshot</summary>
 
 ![Hung's GitHub stats](https://github-readme-stats.vercel.app/api?username=phamhungptithcm&show_icons=true&theme=default&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamhungptithcm&layout=compact&hide_border=true)
+
 </details>
 
+## Contact / Links
 
+Open to senior and staff-level backend, platform, and distributed systems opportunities.
+
+- **LinkedIn:** [linkedin.com/in/hunpham](https://www.linkedin.com/in/hunpham/)
+- **Email:** [phamhung.working@gmail.com](mailto:phamhung.working@gmail.com)
+- **Portfolio:** [hunpeo.web.app](https://hunpeo.web.app)
