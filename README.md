@@ -13,7 +13,7 @@
 <p align="center">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=phamhungptithcm&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" />
   <img alt="Experience" src="https://img.shields.io/badge/Experience-7%2B%20years-2563eb?style=flat" />
-  <img alt="Public repositories" src="https://img.shields.io/badge/Public%20repos-15-0f766e?style=flat" />
+  <img alt="Public repositories" src="https://img.shields.io/badge/Public%20repos-16-0f766e?style=flat" />
   <img alt="Focus" src="https://img.shields.io/badge/Focus-Backend%20%7C%20Platform%20%7C%20Applied%20AI-111827?style=flat" />
 </p>
 
@@ -28,71 +28,66 @@ I enjoy the messy middle of engineering: turning vague business needs into clean
 - **Recent direction:** Building AI-assisted developer tools, release verification workflows, mobile-first platforms, and tolling/transportation systems.
 - **Working style:** Direct, collaborative, calm under production pressure, and comfortable owning systems from design through operation.
 
-## Repositories To Review First
+## Featured Work
 
-These are the projects I recommend reviewing first. They are written as native GitHub README cards so they stay readable even when third-party image services are down.
+Start here if you are reviewing my portfolio. The section is image-free by design so it stays clean in GitHub, mobile views, cached previews, and recruiter screenshares.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/phamhungptithcm/gia-pha">BeFam</a></h3>
-      <p><strong>Mobile-first family platform</strong></p>
+      <p><strong><a href="https://github.com/phamhungptithcm/gia-pha">BeFam</a></strong><br />
+      <sub>Mobile-first family platform</sub></p>
       <p>Genealogy, memberships, events, funds, billing, bilingual docs, release scripts, and production readiness.</p>
+      <p><strong>Signal:</strong> End-to-end product ownership across mobile app, Firebase backend, documentation, and release operations.</p>
       <p><code>Flutter</code> <code>Dart</code> <code>Firebase</code> <code>TypeScript</code> <code>GitHub Actions</code></p>
       <p><a href="https://github.com/phamhungptithcm/gia-pha">Repository</a> - <a href="https://phamhungptithcm.github.io/gia-pha/">Docs</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/phamhungptithcm/gig">gig</a></h3>
-      <p><strong>Ticket-aware release verification CLI</strong></p>
+      <p><strong><a href="https://github.com/phamhungptithcm/gig">gig</a></strong><br />
+      <sub>Ticket-aware release verification CLI</sub></p>
       <p>Checks whether ticket-related changes made it into the right release path before QA, client review, or deployment.</p>
+      <p><strong>Signal:</strong> Release engineering, CLI design, deterministic checks, and practical automation for multi-repo teams.</p>
       <p><code>Go</code> <code>Python</code> <code>TypeScript</code> <code>CLI</code> <code>Git providers</code></p>
       <p><a href="https://github.com/phamhungptithcm/gig">Repository</a> - <a href="https://phamhungptithcm.github.io/gig/">Docs</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/phamhungptithcm/ai-dev-coach">AI Dev Coach</a></h3>
-      <p><strong>Responsible AI workflow coach for developers</strong></p>
-      <p>Chrome extension with prompt scoring, prompt linting, sensitive data checks, platform adapters, and realtime coaching.</p>
-      <p><code>JavaScript</code> <code>CSS</code> <code>Chrome Extension APIs</code> <code>MkDocs</code></p>
-      <p><a href="https://github.com/phamhungptithcm/ai-dev-coach">Repository</a> - <a href="https://phamhungptithcm.github.io/ai-dev-coach/">Docs</a></p>
+      <p><strong><a href="https://github.com/phamhungptithcm/be-ai-heart">be-ai-heart</a></strong><br />
+      <sub>AI codebase memory layer</sub></p>
+      <p>Reusable project context, codebase memory, task handoff, token-aware workflows, CLI access, and MCP integration.</p>
+      <p><strong>Signal:</strong> Applied AI infrastructure thinking with a focus on context quality, reuse, and developer productivity.</p>
+      <p><code>JavaScript</code> <code>CSS</code> <code>MDX</code> <code>Python</code> <code>MCP</code></p>
+      <p><a href="https://github.com/phamhungptithcm/be-ai-heart">Repository</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/phamhungptithcm/beaus-tolling">Beaus Tolling</a></h3>
-      <p><strong>Modular tolling back-office platform</strong></p>
-      <p>Bounded contexts for identity, accounts, trips, cases, payments, reporting, configuration, and customer operations.</p>
-      <p><code>Java 21</code> <code>Spring Boot</code> <code>Angular</code> <code>Kafka</code> <code>Kubernetes</code></p>
-      <p><a href="https://github.com/phamhungptithcm/beaus-tolling">Repository</a> - <a href="https://phamhungptithcm.github.io/beaus-tolling/">Docs</a></p>
+      <p><strong><a href="https://github.com/phamhungptithcm/ai-dev-coach">AI Dev Coach</a></strong><br />
+      <sub>Responsible AI workflow coach for developers</sub></p>
+      <p>Chrome extension with prompt scoring, prompt linting, sensitive data checks, platform adapters, and realtime coaching.</p>
+      <p><strong>Signal:</strong> Developer experience, responsible AI usage, browser extension architecture, and practical prompt quality systems.</p>
+      <p><code>JavaScript</code> <code>CSS</code> <code>Chrome Extension APIs</code> <code>MkDocs</code></p>
+      <p><a href="https://github.com/phamhungptithcm/ai-dev-coach">Repository</a> - <a href="https://phamhungptithcm.github.io/ai-dev-coach/">Docs</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/phamhungptithcm/beaus-tolling-roadside">Beaus Tolling Roadside</a></h3>
-      <p><strong>Roadside edge and ingestion platform</strong></p>
+      <p><strong><a href="https://github.com/phamhungptithcm/beaus-tolling">Beaus Tolling</a></strong><br />
+      <sub>Modular tolling back-office platform</sub></p>
+      <p>Bounded contexts for identity, accounts, trips, cases, payments, reporting, configuration, and customer operations.</p>
+      <p><strong>Signal:</strong> Enterprise backend architecture, event-driven service boundaries, operator workflows, and platform governance.</p>
+      <p><code>Java 21</code> <code>Spring Boot</code> <code>Angular</code> <code>Kafka</code> <code>Kubernetes</code></p>
+      <p><a href="https://github.com/phamhungptithcm/beaus-tolling">Repository</a> - <a href="https://phamhungptithcm.github.io/beaus-tolling/">Docs</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong><a href="https://github.com/phamhungptithcm/beaus-tolling-roadside">Beaus Tolling Roadside</a></strong><br />
+      <sub>Roadside edge and ingestion platform</sub></p>
       <p>Lane-event ingestion, roadside device health, image evidence, event contracts, and Kafka handoff to back-office workflows.</p>
+      <p><strong>Signal:</strong> Low-latency ingestion design, device telemetry, edge reliability, and event contract discipline.</p>
       <p><code>Java</code> <code>Spring Boot</code> <code>Kafka</code> <code>Docker</code> <code>Kubernetes</code></p>
       <p><a href="https://github.com/phamhungptithcm/beaus-tolling-roadside">Repository</a> - <a href="https://phamhungptithcm.github.io/beaus-tolling-roadside/">Docs</a></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>be-ai-heart</h3>
-      <p><strong>Private AI codebase memory project</strong></p>
-      <p>Reusable project context, codebase memory, task handoff, token-aware workflows, CLI access, and MCP integration.</p>
-      <p><code>JavaScript</code> <code>MDX</code> <code>Python</code> <code>MCP</code> <code>CLI</code></p>
-      <p>Private repository - details available on request.</p>
-    </td>
   </tr>
 </table>
-
-## Featured Project Highlights
-
-| Project | What it shows | Stack |
-| --- | --- | --- |
-| [BeFam](https://github.com/phamhungptithcm/gia-pha) | End-to-end product ownership for a mobile-first family platform: authentication, genealogy, events, funds, billing, docs, release scripts, and production readiness. | Flutter, Dart, Firebase, TypeScript, GitHub Actions, MkDocs |
-| [gig](https://github.com/phamhungptithcm/gig) | A practical release engineering tool that checks whether ticket-related changes made it into the right release path before QA or client review. | Go, Python, TypeScript, Git providers, CLI tooling, GitHub Pages |
-| be-ai-heart | AI infrastructure thinking: reusable project memory, codebase context packing, CLI/MCP workflows, and cost-aware AI development habits. Private repo; summary available here so the project still has a recruiter-facing signal. | JavaScript, MDX, Python, CLI, MCP |
-| [AI Dev Coach](https://github.com/phamhungptithcm/ai-dev-coach) | Developer experience and responsible AI usage through prompt scoring, prompt linting, sensitive data detection, and real-time coaching. | JavaScript, CSS, Chrome Extension APIs, MkDocs |
-| [Beaus Tolling](https://github.com/phamhungptithcm/beaus-tolling) | Back-office tolling architecture with bounded contexts, identity, customer operations, reporting, payments, and governed service contracts. | Java 21, Spring Boot, Angular, Kafka, Redis, PostgreSQL, Docker, Kubernetes |
-| [Beaus Tolling Roadside](https://github.com/phamhungptithcm/beaus-tolling-roadside) | Roadside edge services for lane-event ingestion, device management, evidence capture, and back-office integration through event contracts. | Java, Spring Boot, Kafka, Docker, Kubernetes, Shell |
 
 ## Tech Stack
 
@@ -112,11 +107,16 @@ These are the projects I recommend reviewing first. They are written as native G
 
 ## GitHub Activity
 
-- **GitHub since:** 2017
-- **Public repositories:** 15
-- **Recent public work:** BeFam, gig, AI Dev Coach, Beaus Tolling, Beaus Tolling Roadside
-- **Primary languages:** Java, TypeScript, JavaScript, Go, Dart, Python, SQL, Shell
-- **Profile views:** tracked at the top of this README
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>2017</strong><br /><sub>GitHub since</sub></td>
+    <td align="center" width="25%"><strong>16</strong><br /><sub>Public repositories</sub></td>
+    <td align="center" width="25%"><strong>6</strong><br /><sub>Featured builds</sub></td>
+    <td align="center" width="25%"><strong>7+ years</strong><br /><sub>Professional experience</sub></td>
+  </tr>
+</table>
+
+Recent public work: [BeFam](https://github.com/phamhungptithcm/gia-pha), [gig](https://github.com/phamhungptithcm/gig), [be-ai-heart](https://github.com/phamhungptithcm/be-ai-heart), [AI Dev Coach](https://github.com/phamhungptithcm/ai-dev-coach), [Beaus Tolling](https://github.com/phamhungptithcm/beaus-tolling), and [Beaus Tolling Roadside](https://github.com/phamhungptithcm/beaus-tolling-roadside).
 
 ## Contact
 
