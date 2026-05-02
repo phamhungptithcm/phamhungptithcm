@@ -12,12 +12,12 @@
 
 <p align="center">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=phamhungptithcm&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" />
-  <img alt="Experience" src="https://img.shields.io/badge/Experience-7%2B%20years-2563eb?style=flat" />
+  <img alt="Experience" src="https://img.shields.io/badge/Experience-8%2B%20years-2563eb?style=flat" />
   <img alt="Public repositories" src="https://img.shields.io/badge/Public%20repos-16-0f766e?style=flat" />
   <img alt="Focus" src="https://img.shields.io/badge/Focus-Backend%20%7C%20Platform%20%7C%20Applied%20AI-111827?style=flat" />
 </p>
 
-I build production-minded systems where reliability, clear ownership, and developer experience matter. Over 7+ years, I have delivered Java/Spring Boot microservices, Kafka-driven platforms, Kubernetes/AWS workloads, and Angular/Flutter product surfaces across transportation, tolling, internal platforms, and independent product work.
+I build production-minded systems where reliability, clear ownership, and developer experience matter. Over 8+ years, I have delivered Java/Spring Boot microservices, Kafka-driven platforms, Kubernetes/AWS workloads, and Angular/Flutter product surfaces across transportation, tolling, internal platforms, and independent product work.
 
 I enjoy the messy middle of engineering: turning vague business needs into clean service boundaries, useful automation, observable systems, and tools that teams actually want to use.
 
@@ -112,7 +112,7 @@ Start here if you are reviewing my portfolio. The section is image-free by desig
     <td align="center" width="25%"><strong>2017</strong><br /><sub>GitHub since</sub></td>
     <td align="center" width="25%"><strong>16</strong><br /><sub>Public repositories</sub></td>
     <td align="center" width="25%"><strong>6</strong><br /><sub>Featured builds</sub></td>
-    <td align="center" width="25%"><strong>7+ years</strong><br /><sub>Professional experience</sub></td>
+    <td align="center" width="25%"><strong>8+ years</strong><br /><sub>Professional experience</sub></td>
   </tr>
 </table>
 
