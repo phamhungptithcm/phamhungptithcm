@@ -30,48 +30,55 @@ I enjoy the messy middle of engineering: turning vague business needs into clean
 
 ## Repositories To Review First
 
-These are the projects I recommend reviewing first. Public repositories use live GitHub cards; private work is summarized when direct access is not available.
+These are the projects I recommend reviewing first. They are written as native GitHub README cards so they stay readable even when third-party image services are down.
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/phamhungptithcm/gia-pha">
-        <img alt="BeFam repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=phamhungptithcm&amp;repo=gia-pha&amp;hide_border=true&amp;show_owner=false" />
-      </a>
-      <p><strong>BeFam</strong> - mobile-first family, genealogy, events, membership, billing, and clan operations platform.</p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/phamhungptithcm/gia-pha">BeFam</a></h3>
+      <p><strong>Mobile-first family platform</strong></p>
+      <p>Genealogy, memberships, events, funds, billing, bilingual docs, release scripts, and production readiness.</p>
+      <p><code>Flutter</code> <code>Dart</code> <code>Firebase</code> <code>TypeScript</code> <code>GitHub Actions</code></p>
+      <p><a href="https://github.com/phamhungptithcm/gia-pha">Repository</a> - <a href="https://phamhungptithcm.github.io/gia-pha/">Docs</a></p>
     </td>
-    <td width="50%">
-      <a href="https://github.com/phamhungptithcm/gig">
-        <img alt="gig repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=phamhungptithcm&amp;repo=gig&amp;hide_border=true&amp;show_owner=false" />
-      </a>
-      <p><strong>gig</strong> - ticket-aware release verification CLI for safer multi-repo promotion workflows.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/phamhungptithcm/ai-dev-coach">
-        <img alt="AI Dev Coach repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=phamhungptithcm&amp;repo=ai-dev-coach&amp;hide_border=true&amp;show_owner=false" />
-      </a>
-      <p><strong>AI Dev Coach</strong> - Chrome extension that helps developers use AI as a coach instead of a copy-paste shortcut.</p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/phamhungptithcm/beaus-tolling">
-        <img alt="Beaus Tolling repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=phamhungptithcm&amp;repo=beaus-tolling&amp;hide_border=true&amp;show_owner=false" />
-      </a>
-      <p><strong>Beaus Tolling</strong> - modular tolling back-office platform with Spring Boot services and Angular workspaces.</p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/phamhungptithcm/gig">gig</a></h3>
+      <p><strong>Ticket-aware release verification CLI</strong></p>
+      <p>Checks whether ticket-related changes made it into the right release path before QA, client review, or deployment.</p>
+      <p><code>Go</code> <code>Python</code> <code>TypeScript</code> <code>CLI</code> <code>Git providers</code></p>
+      <p><a href="https://github.com/phamhungptithcm/gig">Repository</a> - <a href="https://phamhungptithcm.github.io/gig/">Docs</a></p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/phamhungptithcm/beaus-tolling-roadside">
-        <img alt="Beaus Tolling Roadside repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=phamhungptithcm&amp;repo=beaus-tolling-roadside&amp;hide_border=true&amp;show_owner=false" />
-      </a>
-      <p><strong>Beaus Tolling Roadside</strong> - low-latency edge, device, evidence, and Kafka ingestion layer for tolling systems.</p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/phamhungptithcm/ai-dev-coach">AI Dev Coach</a></h3>
+      <p><strong>Responsible AI workflow coach for developers</strong></p>
+      <p>Chrome extension with prompt scoring, prompt linting, sensitive data checks, platform adapters, and realtime coaching.</p>
+      <p><code>JavaScript</code> <code>CSS</code> <code>Chrome Extension APIs</code> <code>MkDocs</code></p>
+      <p><a href="https://github.com/phamhungptithcm/ai-dev-coach">Repository</a> - <a href="https://phamhungptithcm.github.io/ai-dev-coach/">Docs</a></p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/phamhungptithcm/beaus-tolling">Beaus Tolling</a></h3>
+      <p><strong>Modular tolling back-office platform</strong></p>
+      <p>Bounded contexts for identity, accounts, trips, cases, payments, reporting, configuration, and customer operations.</p>
+      <p><code>Java 21</code> <code>Spring Boot</code> <code>Angular</code> <code>Kafka</code> <code>Kubernetes</code></p>
+      <p><a href="https://github.com/phamhungptithcm/beaus-tolling">Repository</a> - <a href="https://phamhungptithcm.github.io/beaus-tolling/">Docs</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/phamhungptithcm/beaus-tolling-roadside">Beaus Tolling Roadside</a></h3>
+      <p><strong>Roadside edge and ingestion platform</strong></p>
+      <p>Lane-event ingestion, roadside device health, image evidence, event contracts, and Kafka handoff to back-office workflows.</p>
+      <p><code>Java</code> <code>Spring Boot</code> <code>Kafka</code> <code>Docker</code> <code>Kubernetes</code></p>
+      <p><a href="https://github.com/phamhungptithcm/beaus-tolling-roadside">Repository</a> - <a href="https://phamhungptithcm.github.io/beaus-tolling-roadside/">Docs</a></p>
+    </td>
+    <td width="50%" valign="top">
       <h3>be-ai-heart</h3>
-      <p><strong>Private project.</strong> AI codebase memory layer for reducing repeated context, improving task handoff, and sharing reusable project knowledge through CLI and MCP workflows.</p>
+      <p><strong>Private AI codebase memory project</strong></p>
+      <p>Reusable project context, codebase memory, task handoff, token-aware workflows, CLI access, and MCP integration.</p>
       <p><code>JavaScript</code> <code>MDX</code> <code>Python</code> <code>MCP</code> <code>CLI</code></p>
+      <p>Private repository - details available on request.</p>
     </td>
   </tr>
 </table>
@@ -105,10 +112,11 @@ These are the projects I recommend reviewing first. Public repositories use live
 
 ## GitHub Activity
 
-<p align="center">
-  <img height="165" alt="Hung's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=phamhungptithcm&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;rank_icon=github" />
-  <img height="165" alt="Hung's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamhungptithcm&amp;layout=compact&amp;hide_border=true&amp;langs_count=8" />
-</p>
+- **GitHub since:** 2017
+- **Public repositories:** 15
+- **Recent public work:** BeFam, gig, AI Dev Coach, Beaus Tolling, Beaus Tolling Roadside
+- **Primary languages:** Java, TypeScript, JavaScript, Go, Dart, Python, SQL, Shell
+- **Profile views:** tracked at the top of this README
 
 ## Contact
 
