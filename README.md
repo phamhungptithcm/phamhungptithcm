@@ -14,6 +14,7 @@
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=phamhungptithcm&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" />
   <img alt="Experience" src="https://img.shields.io/badge/Experience-8%2B%20years-2563eb?style=flat" />
   <img alt="Public repositories" src="https://img.shields.io/badge/Public%20repos-16-0f766e?style=flat" />
+  <img alt="Leadership" src="https://img.shields.io/badge/Led-36%20engineers-7c3aed?style=flat" />
   <img alt="Focus" src="https://img.shields.io/badge/Focus-Backend%20%7C%20Platform%20%7C%20Applied%20AI-111827?style=flat" />
 </p>
 
@@ -24,9 +25,43 @@ I enjoy the messy middle of engineering: turning vague business needs into clean
 ## Recruiter Snapshot
 
 - **Best fit:** Senior/Staff Backend Engineer, Platform Engineer, Applied AI Engineer, or Technical Lead roles.
-- **Core strengths:** Java, Spring Boot, microservices, event-driven architecture, cloud platforms, CI/CD, observability, and pragmatic product delivery.
+- **Core strengths:** Java, Spring Boot, microservices, payment workflows, event-driven architecture, cloud platforms, CI/CD, observability, and pragmatic product delivery.
 - **Recent direction:** Building AI-assisted developer tools, release verification workflows, mobile-first platforms, and tolling/transportation systems.
 - **Working style:** Direct, collaborative, calm under production pressure, and comfortable owning systems from design through operation.
+- **Leadership range:** Previously led up to 36 engineers while staying close to design reviews, code quality, mentoring, delivery, and technical support.
+
+## Production Scope
+
+Public repositories show how I build independently. My professional work adds enterprise depth across payment operations, design systems, production support, technical leadership, and high-stakes operational workflows.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Payment Systems & Financial Operations</strong></p>
+      <p>Hands-on understanding of payment flows across credit cards, bank/ACH, checks, Apple Pay, Google Pay, and PayPal.</p>
+      <p>I think about payments as a lifecycle, not just "take money and return money": authorization, capture, settlement, refunds, voids/reversals, undo flows, chargebacks, disputes, reconciliation, audit trails, and operational reporting.</p>
+      <p>Familiar with how customers, merchants, payment gateways, third-party payment processors, acquiring banks, issuing banks, and merchant configuration fit together underneath the user-facing payment experience.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>Technical Leadership & Team Enablement</strong></p>
+      <p>Led up to 36 engineers across delivery planning, technical design, code reviews, mentoring, cross-team communication, and release support.</p>
+      <p>Comfortable helping teams move from unclear requirements to maintainable designs, readable pull requests, practical standards, and production-ready delivery habits.</p>
+      <p>I stay close to the engineering details while supporting people: architecture discussions, debugging, incident triage, technical support, documentation, and quality gates.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Design Systems & Operator Experience</strong></p>
+      <p>Worked on reusable UI patterns and design-system thinking for enterprise applications where consistency, accessibility, and speed matter.</p>
+      <p>Care about workflows that real operators use every day: clear states, predictable forms, useful validation, readable tables, safe actions, and screens that help support teams resolve issues faster.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>Production Support & System Reliability</strong></p>
+      <p>Strong in production-minded engineering: logs, metrics, tracing, root-cause analysis, runbooks, technical support, incident follow-up, and safer release practices.</p>
+      <p>I value systems that are explainable under pressure, especially when money movement, customer operations, or business-critical workflows are involved.</p>
+    </td>
+  </tr>
+</table>
 
 ## Featured Work
 
@@ -93,6 +128,7 @@ Start here if you are reviewing my portfolio. The section is image-free by desig
 
 - **Backend and platforms:** Java 17/21, Spring Boot, Spring Security, Spring Cloud, REST, GraphQL, OpenAPI, microservices, distributed systems
 - **Cloud and operations:** AWS, Kubernetes, Docker, GitHub Actions, CI/CD, observability, incident response, release automation
+- **Payments and financial workflows:** credit cards, bank/ACH, checks, Apple Pay, Google Pay, PayPal, refunds, voids/reversals, chargebacks, reconciliation, merchant setup, gateway and bank integration concepts
 - **Data and messaging:** Kafka, Redis, PostgreSQL, Elasticsearch, SQL, caching, event-driven architecture
 - **Frontend and product:** Angular, Angular Material, RxJS, NgRx, Flutter, Dart, TypeScript, JavaScript, Chrome Extensions
 - **AI and developer tooling:** prompt quality systems, MCP workflows, CLI design, codebase memory, docs automation, Git automation
@@ -100,6 +136,7 @@ Start here if you are reviewing my portfolio. The section is image-free by desig
 ## What I Care About
 
 - Clear service boundaries and contracts that keep distributed systems understandable.
+- Payment workflows should be modeled as reliable state machines with auditability, idempotency, and safe recovery paths.
 - Observability that ships with the feature: logs, metrics, traces, dashboards, alerts, and runbooks.
 - Developer tools that remove friction instead of adding another ritual.
 - Practical AI usage that improves engineering judgment, not just output speed.
