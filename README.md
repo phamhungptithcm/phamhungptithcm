@@ -1,51 +1,73 @@
 <div align="center">
+
 <h1>Hung Pham</h1>
-<h2>Tell me your problem. I’ll listen.</h2>
+
+<h2>Tell me what you’re trying to solve. I’ll listen.</h2>
+
 <p>
-<strong>The goal is not to write more code.<br/>
-The goal is to understand the problem well enough to build the right thing.</strong>
+I like to listen first and take the time to understand what really needs to be solved.<br/>
+Then we can shape the idea together and turn it into something that works well.
 </p>
+
 <br/>
+
 <a href="https://www.linkedin.com/in/hunpham/">LinkedIn</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="mailto:phamhung.working@gmail.com">Email</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://hunpeolabs.com">Portfolio</a>
+
 </div>
+
 <br/>
----
+
+You don’t need to have everything figured out.
+
+Maybe something isn’t working, an idea is still taking shape, or you’re simply not sure where to start. That’s okay. Tell me what you know, and we’ll take it from there.
+
 <br/>
-Tell me what is not working, what feels unclear, or what you want to make better. I will help you.
-<br/>
+
 <div align="center">
+
 <img alt="Listen" src="https://img.shields.io/badge/01_LISTEN-9a4d35?style=flat-square" />
 &nbsp;→&nbsp;
-<img alt="Discuss" src="https://img.shields.io/badge/02_DISCUSS-a16207?style=flat-square" />
+<img alt="Talk it through" src="https://img.shields.io/badge/02_TALK_IT_THROUGH-a16207?style=flat-square" />
 &nbsp;→&nbsp;
 <img alt="Understand" src="https://img.shields.io/badge/03_UNDERSTAND-166534?style=flat-square" />
 &nbsp;→&nbsp;
 <img alt="Design" src="https://img.shields.io/badge/04_DESIGN-1d4ed8?style=flat-square" />
+
 <br/>
 <br/>
-<img alt="Present the design" src="https://img.shields.io/badge/05_PRESENT_THE_DESIGN-6d28d9?style=flat-square" />
+
+<img alt="Share the design" src="https://img.shields.io/badge/05_SHARE_THE_DESIGN-6d28d9?style=flat-square" />
 &nbsp;→&nbsp;
-<img alt="Finalize" src="https://img.shields.io/badge/06_FINALIZE-9f1239?style=flat-square" />
+<img alt="Agree" src="https://img.shields.io/badge/06_AGREE-9f1239?style=flat-square" />
 &nbsp;→&nbsp;
-<img alt="Implement" src="https://img.shields.io/badge/07_IMPLEMENT-c2410c?style=flat-square" />
+<img alt="Build" src="https://img.shields.io/badge/07_BUILD-c2410c?style=flat-square" />
 &nbsp;→&nbsp;
-<img alt="Present the result" src="https://img.shields.io/badge/08_PRESENT_THE_RESULT-0f766e?style=flat-square" />
+<img alt="Share the result" src="https://img.shields.io/badge/08_SHARE_THE_RESULT-0f766e?style=flat-square" />
+
 </div>
+
 <br/>
-I’ll show you the design before building anything, so we can make sure it solves the right problem.
+
+Before building anything, I’ll share the design so we can look at it together and make sure we’re heading in the right direction.
+
+Once we agree, I’ll build it, check the details, and walk you through the result.
+
 <br/>
----
 <br/>
+
 <div align="center">
-<h2>Have a problem in mind?</h2>
-<p>Tell me about it. We’ll start there.</p>
+
+<h2>Have something in mind?</h2>
+
+<p>Send me a note. A few lines are enough to get started.</p>
+
 <p>
   <a href="mailto:phamhung.working@gmail.com">
-    <img alt="Email Hung Pham" src="https://img.shields.io/badge/START_A_CONVERSATION-f54e00?style=for-the-badge" />
+    <img alt="Email Hung Pham" src="https://img.shields.io/badge/SAY_HELLO-f54e00?style=for-the-badge" />
   </a>
 </p>
 
